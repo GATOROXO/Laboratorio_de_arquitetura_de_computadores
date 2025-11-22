@@ -1,0 +1,89 @@
+[N
+8
+3
+5 synth
+6
+8 behavior
+7
+1 n
+4
+1 t
+8
+3 sl2
+5
+9 register1
+1
+101 C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/work
+2
+4 mux2
+]
+[G
+1
+2
+3
+1
+4
+1
+0
+5
+0
+0 0
+0
+0
+]
+[G
+1
+2
+3
+2
+4
+1
+0
+32
+0
+0 0
+0
+0
+]
+[G
+1
+8
+3
+1
+7
+1
+0
+32
+0
+0 0
+0
+0
+]
+[G
+1
+8
+3
+2
+7
+1
+0
+28
+0
+0 0
+0
+0
+]
+[G
+1
+5
+6
+1
+7
+1
+0
+32
+0
+0 0
+0
+0
+]

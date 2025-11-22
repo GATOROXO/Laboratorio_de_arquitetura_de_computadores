@@ -1,0 +1,87 @@
+{C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/CompSemUC.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/CompSemUC.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CompSemUC
+-- Compiling architecture behavior of CompSemUC
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/mux2.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/mux2.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2
+-- Compiling architecture synth of mux2
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/data_mem.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/data_mem.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity data_mem
+-- Compiling architecture behavior of data_mem
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/registerfile.vhd} {1 {vcom -work work -2008 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/registerfile.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registerfile
+-- Compiling architecture synth of registerfile
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/rcadder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/rcadder.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rcadder
+-- Compiling architecture synth of rcadder
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/sl2.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/sl2.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sl2
+-- Compiling architecture synth of sl2
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/register1.vhd} {1 {vcom -work work -2008 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/register1.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity register1
+-- Compiling architecture behavior of register1
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/signext.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/signext.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity signext
+-- Compiling architecture synth of signext
+
+} {} {}} {C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/ula.vhd} {1 {vcom -work work -2008 -explicit -vopt -stats=none {C:\Users\GATO ROXO\Downloads\Semestre 2025_2\laboratorio_de_arquitetura_de_computadores\Main2\tb\ula.vhd}
+Questa Altera FPGA Edition-64 vcom 2025.2 Compiler 2025.05 May 31 2025
+** Note: (vcom-220) 'C:/Users/GATO ROXO/Downloads/Semestre 2025_2/laboratorio_de_arquitetura_de_computadores/Main2/tb/Comp_sem_uc.mpf' is used as the ini file.
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ula
+-- Compiling architecture synth of ula
+
+} {} {}}
